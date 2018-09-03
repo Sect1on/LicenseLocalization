@@ -1,0 +1,2 @@
+# LicenseLocalization
+通过车牌的RGB阈值实现对汽车车牌的精确定位及切割。
